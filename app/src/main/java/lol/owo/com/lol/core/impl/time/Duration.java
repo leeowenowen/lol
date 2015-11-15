@@ -1,11 +1,11 @@
-package lol.owo.com.lol.base.impl.time;
+package lol.owo.com.lol.core.impl.time;
 
 import java.util.Date;
 
 /**
  * Created by wangli on 10/27/15.
  */
-public class Duration {
+public class Duration implements  Time {
     Date start;
     Date end;
 

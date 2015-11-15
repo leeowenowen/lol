@@ -1,6 +1,6 @@
-package lol.owo.com.lol.base.impl.location;
+package lol.owo.com.lol.core.impl.location;
 
-import lol.owo.com.lol.base.interfaces.Location;
+import lol.owo.com.lol.core.interfaces.Location;
 
 /**
  * Created by wangli on 10/27/15.

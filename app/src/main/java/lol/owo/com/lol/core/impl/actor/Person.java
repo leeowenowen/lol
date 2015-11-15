@@ -1,4 +1,4 @@
-package lol.owo.com.lol.base.impl.actor;
+package lol.owo.com.lol.core.impl.actor;
 
 /**
  * Created by wangli on 10/27/15.
