@@ -10,4 +10,5 @@ public interface Story {
     Location getLocation();
     Time getTime();
     Actor getActor();
+    Attachment getAttachment();
 }

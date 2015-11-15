@@ -6,6 +6,7 @@ import lol.owo.com.lol.core.impl.location.PointLocation;
 import lol.owo.com.lol.core.impl.time.Time;
 import lol.owo.com.lol.core.impl.time.TimePoint;
 import lol.owo.com.lol.core.interfaces.Actor;
+import lol.owo.com.lol.core.interfaces.Attachment;
 import lol.owo.com.lol.core.interfaces.Location;
 import lol.owo.com.lol.core.interfaces.Story;
 
@@ -29,6 +30,11 @@ public class SimpleStory implements Story {
 
     @Override
     public Actor getActor() {
+        return null;
+    }
+
+    @Override
+    public Attachment getAttachment() {
         return null;
     }
 }
