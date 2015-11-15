@@ -1,4 +1,4 @@
-package lol.owo.com.lol.base;
+package lol.owo.com.lol.base.impl.time;
 
 import java.util.Date;
 

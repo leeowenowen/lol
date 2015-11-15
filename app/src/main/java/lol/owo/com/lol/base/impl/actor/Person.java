@@ -1,9 +1,9 @@
-package lol.owo.com.lol.base;
+package lol.owo.com.lol.base.impl.actor;
 
 /**
  * Created by wangli on 10/27/15.
  */
-public abstract class Actor {
+public abstract class Person {
     private String id;
     private String name;
     private String sex;

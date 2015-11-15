@@ -1,6 +1,8 @@
 # lol
 
-Associate location with peoples and stories.
+Extension
+    asJson
+Associate pointLocation with peoples and stories.
 Location
 Duration
 Actor

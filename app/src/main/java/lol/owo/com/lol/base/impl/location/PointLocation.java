@@ -1,9 +1,11 @@
-package lol.owo.com.lol.base.location;
+package lol.owo.com.lol.base.impl.location;
+
+import lol.owo.com.lol.base.interfaces.Location;
 
 /**
  * Created by wangli on 10/27/15.
  */
-public class Location {
+public class PointLocation implements Location {
     private long langitude;
     private long latitude;
     private String country;
