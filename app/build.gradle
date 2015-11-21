@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 22
-    buildToolsVersion "22.0.0"
+    buildToolsVersion "22.0.1"
 
     defaultConfig {
         applicationId "lol.owo.com.lol"
@@ -24,4 +24,5 @@ dependencies {
     compile 'com.android.support:appcompat-v7:22+'
     compile files('libs/Android_Map_V3.0.20150831.jar')
     compile files('libs/AMap_Location_v2.0.0_20151117.jar')
+    compile project(':android_base')
 }

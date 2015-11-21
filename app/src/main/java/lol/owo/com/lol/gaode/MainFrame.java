@@ -307,7 +307,7 @@ public class MainFrame extends LinearLayout {
     mMapView.onDestroy();
   }
 
-  @SuppressWarnings("deprecation")
+
   public void onPause() {
     mMapView.onPause();
     mOnLocationChangedListener.deactivate();
